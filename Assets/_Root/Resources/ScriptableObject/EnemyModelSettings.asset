@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4b78256982240842a4faa9233cfad1a, type: 3}
+  m_Name: EnemyModelSettings
+  m_EditorClassIdentifier: 
+  _speed: 30
+  _patrolSpeed: 10
+  _minDistance: 2
+  _patroulingDistance: 3
+  _health: 100
+  _attackDistance: 1
+  _damage: 5
+  _damageInterval: 1
+  _minColor: {r: 0.5019608, g: 0, b: 0, a: 1}
+  _maxColor: {r: 0, g: 0.5019608, b: 0, a: 1}
